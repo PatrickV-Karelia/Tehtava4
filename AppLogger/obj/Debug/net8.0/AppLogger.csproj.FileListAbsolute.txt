@@ -10,3 +10,4 @@ C:\Temp\Tehtava4\AppLogger\obj\Debug\net8.0\refint\AppLogger.dll
 C:\Temp\Tehtava4\AppLogger\obj\Debug\net8.0\AppLogger.pdb
 C:\Temp\Tehtava4\AppLogger\obj\Debug\net8.0\ref\AppLogger.dll
 C:\Temp\Tehtava4\AppLogger\obj\Debug\net8.0\AppLogger.csproj.AssemblyReference.cache
+C:\Temp\Tehtava4\AppLogger\obj\Debug\net8.0\AppLogger.sourcelink.json

@@ -67,3 +67,4 @@ C:\Temp\Tehtava4\App\bin\Debug\net8.0\vi\Humanizer.resources.dll
 C:\Temp\Tehtava4\App\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
 C:\Temp\Tehtava4\App\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
 C:\Temp\Tehtava4\App\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Temp\Tehtava4\App\obj\Debug\net8.0\App.sourcelink.json
