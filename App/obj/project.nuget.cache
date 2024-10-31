@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pjUdVYBIi9k=",
+  "dgSpecHash": "hihSnw8Lh5Q=",
   "success": true,
-  "projectFilePath": "C:\\Temp\\Tehtava4\\App\\App.csproj",
+  "projectFilePath": "C:\\Temp\\Tehtava4\\app\\App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Janika\\.nuget\\packages\\humanizer\\3.0.0-beta.54\\humanizer.3.0.0-beta.54.nupkg.sha512",
     "C:\\Users\\Janika\\.nuget\\packages\\humanizer.core\\3.0.0-beta.54\\humanizer.core.3.0.0-beta.54.nupkg.sha512",

@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Temp\\Tehtava4\\App\\App.csproj": {}
+    "C:\\Temp\\Tehtava4\\app\\App.csproj": {}
   },
   "projects": {
     "C:\\Temp\\Tehtava4\\AppLogger\\AppLogger.csproj": {
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Temp\\Tehtava4\\App\\App.csproj": {
+    "C:\\Temp\\Tehtava4\\app\\App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Temp\\Tehtava4\\App\\App.csproj",
+        "projectUniqueName": "C:\\Temp\\Tehtava4\\app\\App.csproj",
         "projectName": "App",
-        "projectPath": "C:\\Temp\\Tehtava4\\App\\App.csproj",
+        "projectPath": "C:\\Temp\\Tehtava4\\app\\App.csproj",
         "packagesPath": "C:\\Users\\Janika\\.nuget\\packages\\",
-        "outputPath": "C:\\Temp\\Tehtava4\\App\\obj\\",
+        "outputPath": "C:\\Temp\\Tehtava4\\app\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
